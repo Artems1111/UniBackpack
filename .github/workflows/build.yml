@@ -1,4 +1,4 @@
-name: C++ CI/CD Pipeline (cppcheck)
+name: Static Analysis
 
 on:
   push:
